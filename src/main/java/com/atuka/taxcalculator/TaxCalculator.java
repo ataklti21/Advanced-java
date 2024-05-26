@@ -1,4 +1,4 @@
-package com.atuka;
+package com.atuka.taxcalculator;
 
 //this is interface example
 //accessing interfaces

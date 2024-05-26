@@ -1,4 +1,4 @@
-package com.atuka;
+package com.atuka.taxcalculator;
 
 public class User {
     //Fields(attributes)

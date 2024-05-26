@@ -17,4 +17,9 @@ public class StaticVariableInit {
 public void displayExpirationYear(){
     System.out.println(expirationYear);
 }
+public static  void increment(int x){
+        x++;
+    System.out.printf("x= %d",x);
+    System.out.println();
+}
 }

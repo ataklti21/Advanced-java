@@ -1,6 +1,9 @@
 package com.atuka;
 //this is A design pattern example
 
+import com.atuka.taxcalculator.Calculate2019;
+import com.atuka.taxcalculator.TaxCalculator;
+
 /**
  * design pattern concern with instantiate
  * of objects
