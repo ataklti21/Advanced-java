@@ -15,7 +15,7 @@ public class ExercisesMain {
         System.out.println(date);
 
     }
-    public  static  boolean isSquerRoot(int n){
+    public  static  boolean isSquRoot(int n){
         int sq = (int)Math.sqrt(n);
         int pow = (int)Math.pow(sq,2);
         return n == pow;
