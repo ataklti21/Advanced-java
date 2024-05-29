@@ -14,10 +14,14 @@ public class ExercisesMain {
         LocalDate date = LocalDate.of(2024, 9, 2);
         System.out.println(date);
         System.out.println(isSquRoot(16));
+
     }
     public  static  boolean isSquRoot(int n){
         int sq = (int)Math.sqrt(n);
         int pow = (int)Math.pow(sq,2);
         return n == pow;
+    }
+    public static  void exception() throws RuntimeException{
+        throw new RuntimeException("Run time exception");
     }
 }
